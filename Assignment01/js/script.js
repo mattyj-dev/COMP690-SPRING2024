@@ -25,3 +25,39 @@
 // let intYourAge
 // let strReferralSource
 // let boolMayWeContactYou
+
+// STEP 5 Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables
+// let strFirstName = "Matthew"
+// let strLastName = "Juleson"
+// const strAddress = "123 Home Ave"
+
+// STEP 6 Create a variable; Add a number and a string and display the coerced result in the browser’s console window
+// let age = 45
+// console.log('Matt is ' + age + ' years old')
+
+// STEP 7 Create two variables; for the first variable, add a Boolean and a string and display the coerced result; for the second variable, add a number and a Boolean and display the coerced result.
+// let boolStringVariable = true + ' dat!'
+// let numberBooleanVariable = 45 + true
+// console.log(boolStringVariable) // true dat!
+// console.log(numberBooleanVariable) // 46
+
+// STEP 8 Is the following string literal valid? If not, how would you fix it?
+let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'
+console.log(someString)
+
+
+
+// STEP 9
+// STEP 10
+// STEP 11
+// STEP 12
+// STEP 13
+// STEP 14
+// STEP 15
+// STEP 16
+// STEP 17
+// STEP 18
+// STEP 19
+// STEP 20
+// STEP 21
+// STEP 22
