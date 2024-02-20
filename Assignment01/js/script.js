@@ -42,8 +42,9 @@
 // console.log(numberBooleanVariable) // 46
 
 // STEP 8 Is the following string literal valid? If not, how would you fix it?
-let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'
-console.log(someString)
+// NO, it's not a literal valid; Fixed by using the `tick` mark above the tab key
+// let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`
+//console.log(someString)
 
 
 
