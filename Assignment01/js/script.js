@@ -46,10 +46,31 @@
 // let someString = `Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."`
 //console.log(someString)
 
+// STEP 9 Create a variable that produces:
+//  let aNullValue = null
+//  console.log(aNullValue)
+
+// let undefinedValue
+// console.log(undefinedValue)
 
 
-// STEP 9
-// STEP 10
+// STEP 10 Use the unary typeof operator on various literals to return the following types within the console window:
+
+// string = "Hi"
+// console.log(typeof (string) )
+
+// number = 58008
+// console.log( typeof(number) )
+
+// Boolean = false
+// console.log(typeof (Boolean) )
+
+object = 
+console.log()
+
+// undefined
+// console.log()
+
 // STEP 11
 // STEP 12
 // STEP 13
